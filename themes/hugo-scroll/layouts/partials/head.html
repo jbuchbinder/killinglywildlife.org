@@ -7,6 +7,8 @@
   <link rel="shortcut icon" href="{{ . | absURL }}" type="image/png"
 />{{ end }}
 
+<link rel="manifest" href="/site.webmanifest">
+
 {{ with .Site.Params.description }}
   <meta name="description" content="{{ . }}"
 />{{ end }}
