@@ -10,7 +10,7 @@ header_logo: "images/noun-opossum-36312.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Killingly Wildlife"
-header_subheadline: "<b>Rescue</b> & <b>Rehabilitation</b>, Specializing in Opossums"
+header_subheadline: "<b>Rescue</b> /<b>Rehabilitation</b> / <b>Release</b><br/>Specializing in Opossums"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

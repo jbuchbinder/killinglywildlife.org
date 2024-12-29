@@ -35,14 +35,14 @@ title = "Killingly Wildlife Rescue and Rehabilitation"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Killingly Wildlife Rescue and Rehabilitation"
+    title = "Killingly Wildlife"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Wildlife Rescue and Rehabilitation"
+    description = "Wildlife Rescue, Rehabilitation, and Release"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Killingly Wildlife Rescue and Rehabilitation"
+    copyright = "© 2024-2025 Killingly Wildlife Incorporated"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -59,7 +59,7 @@ title = "Killingly Wildlife Rescue and Rehabilitation"
     showFooterLinks = false
 
     [params.meta]
-        keywords = "wildlife, rehabilitation, rehab, rescue, animals, opossums, opossum, virginia opossum"
+        keywords = "wildlife, rehabilitation, rehab, rescue, release, animals, opossums, opossum, virginia opossum"
 
     [[params.contacts]]
         label = "phone"
@@ -74,8 +74,8 @@ title = "Killingly Wildlife Rescue and Rehabilitation"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!
-    # [[params.contacts]]
-    #     label = ""
-    #     value = ""
-    #     url = ""
-    #     icon = ""
+    [[params.contacts]]
+         label = "zeffy"
+         value = "Zeffy Donate Link"
+         url = "https://www.zeffy.com/donation-form/donate-to-make-a-difference-3725"
+         icon = "fa fa-credit-card"
